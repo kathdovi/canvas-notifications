@@ -1,0 +1,3 @@
+runtime "python"
+# exec is the file that will be executed:
+exec "sendtext.py"
