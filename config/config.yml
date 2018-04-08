@@ -1,0 +1,10 @@
+from twilio.rest import Client 
+account = "AC84869c6273365b25abc7f71947391674"
+token = "523fde5645063b82470cdcaaf48cf97f"
+client = Client(account, token)
+
+twilio:
+  sid:  SKbcad71b881277c960a499c613f9aec36
+  token: 523fde5645063b82470cdcaaf48cf97f
+  from: +12016769712
+to: +43000000000
